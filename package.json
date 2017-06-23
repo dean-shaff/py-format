@@ -1,0 +1,15 @@
+{
+  "name": "py-format",
+  "version": "1.0.0",
+  "description": "Extension to String type that allows for string formatting a là Python",
+  "main": "format.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "format"
+  ],
+  "author": "Dean Shaff",
+  "license": "ISC"
+}
