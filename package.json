@@ -10,6 +10,10 @@
     "string",
     "format"
   ],
+  "repository":{
+  	"type":"git",
+	"url":"https://github.com/dean-shaff/py-format.git"
+  }
   "author": "Dean Shaff",
-  "license": "ISC"
+  "license": "MIT"
 }
